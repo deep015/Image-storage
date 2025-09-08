@@ -1,4 +1,4 @@
-#Build a Professional, Interactive Image Uploader with React & TailwindCSS
+***Build a Professional, Interactive Image Uploader with React & TailwindCSS
 
 Images are central to modern web applications, whether it’s a portfolio, social media app, or an admin dashboard. A smooth, interactive image uploader not only enhances user experience but also makes your application feel modern and professional.
 
