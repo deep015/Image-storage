@@ -1,12 +1,35 @@
-# React + Vite
+# Image Uploader Pro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A professional, interactive Image Uploader built with **React**, **TailwindCSS**, and **Zustand**.  
+This project provides a modern, responsive, and user-friendly interface for uploading, managing, and previewing images.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Click-to-upload & Drag & Drop**: Upload images by clicking or dragging files into the upload area.
+- **Responsive Image Grid**: Displays images in a professional, glassmorphic grid layout.
+- **Interactive Image Cards**: Hover to reveal actions like Download, Delete, and Preview.
+- **Preview Modal**: Click an image to view it in full size.
+- **Like Button**: Toggle likes on images for engagement.
+- **Bulk Actions**: Download or delete all images at once.
+- **Search & Filter**: Quickly find images by name.
+- **Smooth Animations**: Hover effects, modal transitions, and pulsing icons enhance UX.
+- **Image Metadata**: Shows image size, format, and upload date on each card.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Demo
+
+![Image Uploader Preview](./preview.png)  
+*Add a screenshot or GIF of your uploader here for visual appeal.*
+
+---
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/image-uploader-pro.git
+cd image-uploader-pro
